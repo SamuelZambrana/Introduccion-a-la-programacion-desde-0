@@ -1,1 +1,2 @@
-# Primeros pasos para aprender a programar con python y algo de javascript .Introduccion-a-la-programacion-desde-0
+# Introduccion-a-la-programacion-desde-0
+Todos los fundamentos basicos de programacion con el lenguaje de programacion Python
